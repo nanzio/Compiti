@@ -4,7 +4,7 @@ public class HelloHeaven {
 
     public HelloHeaven(String message, String virus) {
         this.message = message;
-        this.virus = virus;
+        this.virus = message;
     }
 
     public HelloHeaven() {
